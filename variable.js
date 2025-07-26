@@ -5,3 +5,4 @@ var money=9000;
 
 console.log(money);
 console.log(amount);
+console.log(price);
