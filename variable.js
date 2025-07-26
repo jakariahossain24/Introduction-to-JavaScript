@@ -4,3 +4,4 @@ var amount=54;
 var money=9000;
 
 console.log(money);
+console.log(amount);
