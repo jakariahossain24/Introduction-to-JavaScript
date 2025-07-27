@@ -14,6 +14,7 @@ var mango=20;
 mango *=10
 console.log(mango);
 
+// modulus
 var potato=30;
 var price=4;
 
